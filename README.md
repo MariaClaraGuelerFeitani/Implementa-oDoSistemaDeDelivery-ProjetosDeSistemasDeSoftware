@@ -2,7 +2,7 @@
 
 Sistema desktop de gerenciamento de pedidos, clientes, produtos e estoque para operações de delivery.  
 
-Desenvolvido por: Henrique Queiroz Teixeira, Maria Clara Gueler Feitani e Suelen Salarolli Bisi
+Desenvolvido por: Henrique Queiroz Teixeira, Maria Clara Gueler Feitani e Suelen Salarolli Bisi.
 
 ---
 
