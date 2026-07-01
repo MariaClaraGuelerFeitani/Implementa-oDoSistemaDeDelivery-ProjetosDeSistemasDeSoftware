@@ -2,6 +2,8 @@
 
 Sistema desktop de gerenciamento de pedidos, clientes, produtos e estoque para operações de delivery.  
 
+Desenvolvido por: Henrique Queiroz Teixeira, Maria Clara Gueler Feitani e Suelen Salarolli Bisi
+
 ---
 
 ##  Como Compilar e Executar
@@ -16,7 +18,7 @@ Sistema desktop de gerenciamento de pedidos, clientes, produtos e estoque para o
 
 ```bash
 # 1. Clone o repositório
-git clone <url-do-repositorio>
+git clone https://github.com/MariaClaraGuelerFeitani/Implementa-oDoSistemaDeDelivery-ProjetosDeSistemasDeSoftware
 cd delivery
 
 # 2. Compile o projeto
@@ -471,12 +473,6 @@ O SQLite (`delivery.db`) é criado automaticamente e contém as seguintes tabela
 - **WAL** (Write-Ahead Log) — permite leituras e escritas concorrentes
 - **busy_timeout = 5000ms** — evita erros de "database locked"
 - **foreign_keys = ON** — integridade referencial ativa
-
----
-
-##  Autores
-
-SUELEN SALAROLLI BISI , MARIA CLARA GUELER FEITANI e HENRIQUE QUEIROZ TEIXEIRA
 
 ---
 
